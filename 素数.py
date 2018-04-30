@@ -26,7 +26,7 @@ def primes():
 #    else:
 #        break		
 
-#求解回数
+#回数
 
 def _odd_iter1():
     n = 0
